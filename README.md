@@ -8,21 +8,21 @@
 * [Conclusions](#conclusions)
 
 ## General Information
-● Lending Club company is the largest online loan marketplace.
-● They finance personal loans, business loans and finances medical procedures.
-● They have online interface to allow borrower easy accessibility
-● They offer loan at lower interest rate than market rate
+● Lending Club company is the largest online loan marketplace.<br>
+● They finance personal loans, business loans and finances medical procedures.<br>
+● They have online interface to allow borrower easy accessibility<br>
+● They offer loan at lower interest rate than market rate<br>
 
 
 ## Conclusions
-Below are few indicators of a Risky application / applications that can default:
-● Applicants with lower grades requesting for high loan amount
-● Applicants whose home ownership is MORTGAGE and having income range of 60-70k
-● If applicants purpose of loan is for Small Business / Debt Consolidation (loan amount > 12k), Home / House Improvement (loan amount > 10k)
-● Applicants Loan requirement >12k and has low grades E, F, G
-● Applicants which are verified and are granted loan amount >15k
-● Loan amount(>12k) for applicant having annual income >58k
-● Loans which are having high interest rate range of 15-18% for term of 60 months
+Below are few indicators of a Risky application / applications that can default:<br>
+● Applicants with lower grades requesting for high loan amount<br>
+● Applicants whose home ownership is MORTGAGE and having income range of 60-70k<br>
+● If applicants purpose of loan is for Small Business / Debt Consolidation (loan amount > 12k), Home / House Improvement (loan amount > 10k)<br>
+● Applicants Loan requirement >12k and has low grades E, F, G<br>
+● Applicants which are verified and are granted loan amount >15k<br>
+● Loan amount(>12k) for applicant having annual income >58k<br>
+● Loans which are having high interest rate range of 15-18% for term of 60 months<br>
  
 
 ## Technologies Used
